@@ -50,3 +50,14 @@ A mockup is a visual representation of a user interface, but it doesn't contain 
 * **Maintainability:** A codebase built with a clear understanding of design properties is easier to maintain and scale. If the design needs to be updated, developers can quickly locate and modify the relevant styles because they are logically structured and consistent.
 
 In summary, identifying design properties transforms a static image into actionable data. It ensures that the creative vision is accurately translated into a functional and aesthetically pleasing digital product, saving time and effort while guaranteeing a high-quality result.
+## Project Roles and Responsibilities
+| Role | Responsibilities |
+| :--- | :--- |
+| Project Manager | Oversees timeline, coordinates team, manages deliverables |
+| Frontend Developers | Implements UI components, ensures responsive design |
+| Backend Developers | Builds APIs, manages database, implements business logic |
+| Designers | Creates mockups, maintains design system, ensures UX quality |
+| QA/Testers | Writes test cases, performs testing, reports bugs |
+| DevOps Engineers | Manages deployment, CI/CD pipeline, server infrastructure |
+| Product Owner | Defines requirements, prioritizes features, represents stakeholders |
+| Scrum Master | Facilitates agile processes, removes blockers, organizes meetings |
